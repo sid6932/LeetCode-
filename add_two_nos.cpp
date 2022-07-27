@@ -9,6 +9,10 @@
  * };
  */
 
+/**
+just implement the normal addition of numbers by carrying 
+ */
+
 class Solution {
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
